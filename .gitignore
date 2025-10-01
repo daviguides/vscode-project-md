@@ -1,5 +1,34 @@
-out
-dist
-node_modules
-.vscode-test/
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VS Code extension packaging
 *.vsix
+
+# Build outputs
+out/
+dist/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# IDE / editor configs
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Env / local config
+.env

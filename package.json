@@ -1,12 +1,22 @@
 {
   "name": "project-md",
   "displayName": "Project.md",
-  "description": "",
-  "version": "0.0.2",
+  "publisher": "daviguides",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.104.0"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daviguides/vscode-project-md.git"
+  },
+  "homepage": "https://github.com/daviguides/vscode-project-md",
+  "bugs": {
+    "url": "https://github.com/daviguides/vscode-project-md/issues"
+  },
+  "icon": "images/icon2.png",
+  "description": "Project.md makes file references in Markdown documents clickable and navigable. Click any path to open existing files or auto-create new ones. Designed specifically to enhance workflows for developers using code assistants like Claude Code, Gemini CLI, and Codex CLI.",
   "categories": [
     "Other"
   ],

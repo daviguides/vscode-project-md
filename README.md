@@ -1,6 +1,6 @@
 # Project.md
 
-[![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://github.com/daviguides/project-md/releases)
+[![Version](https://img.shields.io/badge/version-0.0.7-blue.svg)](https://github.com/daviguides/project-md/releases)
 [![VSCode](https://img.shields.io/badge/VSCode-%5E1.104.0-007ACC.svg)](https://code.visualstudio.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
